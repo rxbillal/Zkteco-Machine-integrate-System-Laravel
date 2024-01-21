@@ -19,10 +19,10 @@ Video link: https://www.youtube.com/watch?v=nz1eFotxmp8
 
 You can simply run the project by following process
 ```shell
-$ git clone https://github.com/Baizidmdashadzzaman/Laravel-zkteco-iclock9000-G-machine-attendance-system
+$ git clone https://github.com/rxbillal/Zkteco-Machine-integrate-System-Laravel
 ```
 ```shell
-$ cd Laravel-zkteco-iclock9000-G-machine-attendance-system
+$ cd Zkteco-Machine-integrate-System-Laravel
 ```
 ```shell
 $ composer install
